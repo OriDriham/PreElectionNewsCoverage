@@ -43,7 +43,7 @@ python main.py
 The program will generate various output files, including:
 
 - Plots for candidate scores, sentiment scores, and readability metrics.
-- Summaries of articles for each election year saved in the 'results' directory.
+- Summaries of articles for each election year saved in the `results` directory.
 
 
 # Design
