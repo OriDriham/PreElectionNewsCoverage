@@ -1,6 +1,6 @@
-# PreElectionNewsCoverage
+# Pre-Election News Coverage
 
-The PreElectionNewsCoverage project is designed to analyze and summarize news coverage related to pre-election events. It includes components for fetching news articles, processing the content, and generating summaries based on sentiment analysis and readability metrics across multiple election years.
+The Pre-Election News Coverage project is designed to analyze and summarize news coverage related to pre-election events. It includes components for fetching news articles, processing the content, and generating summaries based on sentiment analysis and readability metrics across multiple election years.
 
 
 # File Descriptions
